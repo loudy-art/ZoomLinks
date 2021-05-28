@@ -6,7 +6,7 @@ How it works?
 
 > You run the program ->
 > select the .xlsx file that contains NAME and EMAIL ->
-> paste the URL that you wanna send on your e-mail, which in my case, was Zoom recordings 
+> paste the URL that you wanna send on your e-mail, which in my case, was a Zoom recording link.
 
 What can you implement?
 
