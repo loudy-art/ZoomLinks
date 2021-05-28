@@ -4,9 +4,9 @@ Zoom links is a simple Python program that can automate sending e-mails to multi
 
 How it works?
 
-> You run the program <
-> Select the .xlsx file that contains NAME and EMAIL <
-> Paste the URL that you wanna send on your e-mail, which in my case, was Zoom recordings <
+> You run the program ->
+> select the .xlsx file that contains NAME and EMAIL ->
+> paste the URL that you wanna send on your e-mail, which in my case, was Zoom recordings <
 
 What can you implement?
 
